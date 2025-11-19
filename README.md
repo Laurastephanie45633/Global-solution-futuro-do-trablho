@@ -63,6 +63,8 @@ Relatórios Técnicos
 
 Cada notebook possui um relatório próprio (na pasta reports/) explicando:
 
+obs: para acessar o link do google colab direto pelo retatório, é necessário baixar o arquivo e depois abrir o link pelo arquivo baixado.
+
     metodologia aplicada
 
     justificativa das técnicas
